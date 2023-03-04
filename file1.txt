@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 “First file created locally”
  Making problems
+=======
+ Adding some text from develop
+>>>>>>> develop
